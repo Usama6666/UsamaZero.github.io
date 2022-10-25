@@ -1,2 +1,0 @@
-# UsamaZero.github.io
-website
